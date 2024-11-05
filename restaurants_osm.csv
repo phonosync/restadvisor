@@ -1,0 +1,393 @@
+@id;name;@lat;@lon;addr:city;addr:postcode;addr:street;addr:housenumber;amenity;cuisine;indoor_seating;outdoor_seating;opening_hours;website;wheelchair
+29455088;Loge;47.4985900;8.7313532;;;;;bar;;;;"Mo,Tu 15:00-18:00+; We-Fr 14:30-18:00+; Sa,Su 13:30-18:00+";;
+34039212;Hallenbadrestaurant Geiselweid;47.4955184;8.7415564;;;;;restaurant;;;;"Tu-Fr 09:00-21:00; Mo 11:30-21:00; Sa,Su 09:00-18:30";;
+34040796;Schwimmbadrestaurant Töss;47.4830648;8.7057040;;;;;restaurant;;no;yes;;;
+246249861;Tibits;47.5000502;8.7312632;Winterthur;8400;Oberer Graben;48;restaurant;;;;Mo 07:00-22:00; Tu-Fr 07:00-22:30; Sa 08:00-22:30; Su 09:00-22:00;https://www.tibits.ch/de/restaurants#tibits-winterthur;yes
+246252799;Kafisatz;47.4989007;8.7272644;Winterthur;8400;Spitalgasse;1;cafe;;yes;yes;"Mo,We-Th 08:00-24:00; Tu 07:00-24:00; Fr 07:00-02:00; Sa 08:30-02:00; Su 12:00-22:00";https://kafisatz.ch;limited
+246253649;Vollenweider;47.4998045;8.7250404;Winterthur;8400;Stadthausstrasse;20;cafe;;;;Mo-Fr 08:00-18:00; Sa 08:30-18:00; Su 09:00-18:00;https://www.vollenweiderchocolatier.ch/;limited
+246253651;Casinotheater Restaurant Fredi;47.4997470;8.7264919;;;;;restaurant;regional;;;"Mo 11:00-22:30; Tu,We 09:00-22:30; Th,Fr 09:00-24:00; Sa 11:00-24:00";;limited
+246253655;Albani;47.4984256;8.7292032;Winterthur;8400;Steinberggasse;16;pub;;;yes;"Mo-We 15:00-24:00; Fr,Sa 15:00+";https://www.albani.ch;limited
+247766473;Widder;47.4986261;8.7277212;Winterthur;8400;Metzggasse;9;pub;;;yes;;https://www.gasthofzumwidder.ch/;limited
+247766478;grepery;47.4979565;8.7273720;Winterthur;8400;Steinberggasse;59;restaurant;;;;Mo-Th 09:00-24:00; Fr-Sa 09:00-01:00; Su 09:00-23:00;https://www.grepery.ch/winterthur/;
+247766635;Cappucino;47.4987667;8.7304544;;;;;cafe;coffee_shop;;;Mo-Th 07:00-00:00; Fr 07:00-01:00; Sa 08:00-01:00; Su 09:30-00:00;https://www.cappuccino-winterthur.ch/;limited
+247766860;Paddy O'Briens Old Irish Pub;47.5015260;8.7259480;Winterthur;8400;Merkurstrasse;25;pub;;;;"Mo-We 16:00-24:00, Th,Fr 16:00-02:00, Sa 15:00-02:00, Su 17:30-24:00";https://www.paddyobriens.ch/;no
+249730077;Chnelle 3;47.4979362;8.7321599;Winterthur;8400;Technikumstrasse;2;pub;;;;Mo-Su 18:00+;;no
+249730688;Quincy;47.5036678;8.7273729;;8400;;;bar;;;no;Fr-Sa 17:00-02:00; Th 17:00-23:00; Su 10:00-15:00;https://quincybar.ch/;limited
+256866280;National;47.4996979;8.7241129;Winterthur;8400;Stadthausstrasse;24;restaurant;;;;Mo-We 09:00-22:30; Th-Fr 09:00-23:30; Sa 09:00-23:30; Su 10:00-21:30;https://www.bindella.ch/de/national.html;limited
+270908998;zum Schäfli;47.4989606;8.7313826;;;;;restaurant;regional;;;Mo-Fr 08:30-00:00; Sa 10:30-00:00;https://www.restaurant-schaefli-winterthur.ch/;no
+272321242;Stadtmuur;47.4980775;8.7311439;Winterthur;8400;Holderplatz;4;cafe;;;;"Mo-Tu 11:30-13:45, Th-Fr 11:30-13:45, Apr 26-May 05 off";https://stadtmuur.ch/;
+272323419;Renegade;47.4980412;8.7306613;Winterthur;8400;Technikumstrasse;10;pub;;;;"Su-Th 16:00-02:00, Fr,Sa 16:00-04:00";;no
+277746978;Kafi Ass;47.4924964;8.7612520;;;;;restaurant;;;;;;limited
+282655573;Alltag;47.4992488;8.7309303;Winterthur;8400;Unterer Graben;25;cafe;;yes;yes;"Mo-Th 07:30-24:00, Fr 07:30-01:00, Sa 08:30-01:00, Su 10:00-18:00";https://alltag-cafebar.ch/;limited
+282655574;Istanbul;47.4999063;8.7320208;Winterthur;8400;Obertor;21;fast_food;kebab;;yes;;;
+282655576;Fahrenheit;47.4982284;8.7270102;Winterthur;8400;Steinberggasse;65;pub;;;yes;Mo-We 14:00-24:00; Th 14:00-01:00; Fr 14:00-02:00; Sa 09:00-02:00; Su 14:00-22:00;https://www.fahrenheit-bar.ch/;no
+282655581;Pulcinella;47.4986890;8.7277010;Winterthur;8400;Metzggasse;11;restaurant;italian;;yes;Mo-Su 17:30-23:30;https://pulcinella-winterthur.ch/;limited
+285953784;Plan B;47.4983429;8.7206239;Winterthur;8400;Zürcherstrasse;7;pub;;yes;yes;Mo-Th 10:00-24:00; Fr 10:00-02:00; Sa 14:00-02:00; Su 14:00-24:00;https://planb-bar.ch;limited
+299079168;Kraftfeld;47.4948426;8.7180767;;;;;pub;;yes;yes;"Fr,Sa 21:00-05:00, We,Th 19:00-01:00";https://www.kraftfeld.ch/;
+300428220;Hirschen;47.5109256;8.6944084;;;;;restaurant;;;;;;
+307364223;Café Auszeit;47.5072030;8.7112534;Winterthur;8400;Wülflingerstrasse;77;restaurant;;;;Tu-Su 08:00-18:00;https://www.cafe-auszeit.ch;
+307364547;Pizzeria Rosenberg;47.5116598;8.7216514;Winterthur;8400;Schaffhauserstrasse;56;restaurant;pizza;italian;;yes;Tu-Su 9:00-22:00;https://pizzeria-rosenberg.ch;no
+352831991;Dimensione;47.4994440;8.7325645;;;Neustadtgasse;25;cafe;;;yes;"Sa,Su off; Mo-Fr 10:00-16:00";https://www.dimensione.ch/;
+353186982;McDonald's;47.4990848;8.7244693;;;;;fast_food;burger;yes;no;"Mo-Sa 08:30-24:00,Fr 00:00-01:00,Sa 00:00-05:00,Su 00:00-06:00,10:00-24:00";https://www.mcdonalds.com/ch/de-ch/location/z-rich-zurich/winterthur/winterthur-untertor/untertor-37/780023.html;yes
+359683408;Ristorante Pizzeria al Agi-M;47.4963918;8.7402957;;;;;restaurant;pizza;italian;;terrace;"Mo-Sa 11:00-14:00,17:00-22:30; PH closed";https://al-agi-m.ch/;no
+359683523;Bistrot George;47.4958068;8.7380951;Winterthur;8400;Grüzenstrasse;45;restaurant;;;;"Tu,Th-Su 10:00-18:00; We 10:00-20:00";https://bistro-george.ch/;limited
+359683717;Cucina;47.4943149;8.7407208;;;;;restaurant;italian;indian;;;;;yes
+359685942;Strauss;47.5003358;8.7272460;Winterthur;;Stadthausstrasse;8;restaurant;regional;;;Mo-Sa 10:00-24:00;https://www.strauss-winterthur.ch/;limited
+359686638;Rosa Pulver;47.5004628;8.7268709;Winterthur;8400;Stadthausstrasse;10;restaurant;regional;;;"Tu-Fr 11:30-13:30, 18:00+; Sa 18:00+";https://rosapulver.ch/;
+359686907;Coop Restaurant;47.5008859;8.7260018;;;;;restaurant;;;;Mo-Sa 08:00-20:00;;yes
+359687037;Santa Lucia;47.5009387;8.7252033;Winterthur;8400;Bahnhofplatz;12;restaurant;pizza;;;"Mo-Fr 11:30-14:00,17:30-22:30; Sa,Su 11:30-22:30";https://www.bindella.ch/de/santa-lucia-winterthur.html;limited
+359687167;Coal Mine Bar;47.5004342;8.7251948;;;;;pub;;;;;;no
+359687975;Restaurant Trübli;47.4989829;8.7262079;Winterthur;8400;Bosshardengässchen;2;restaurant;;yes;no;Tu-Sa 16:00-23:30;https://restaurant-truebli.ch;
+359688178;Typisch Thai;47.4984254;8.7261656;Winterthur;8400;Neumarkt;3;restaurant;thai;;;"Mo-Fr 10:00-14:00,17:00-23:00; Sa,Su 17:00-23:00";https://www.typischthai.ch;
+359690143;Thurbinä;47.4992687;8.7284821;;;;;pub;;yes;yes;"Tu,We 15:00-23:00, Th 15:00-24:00, Fr 15:00-01:00, Sa 14:00-01:00, Su 15:00-21:00";;no
+359690232;Le ciel bleu;47.4978440;8.7284816;Winterthur;8400;Technikumstrasse;44;pub;;;;;;no
+359690395;Brasserie Rössli;47.4977995;8.7278351;Winterthur;8400;Technikumstrasse;56;restaurant;mediterranean;;yes;"Tu-Fr 11:45-14:00,18:00-22:30; Sa 18:00-22:30";https://www.brasserie-roessli.ch/;no
+359690485;Gwölb;47.4980808;8.7289351;Winterthur;8400;Steinberggasse;29;pub;;;;;;no
+359690572;Riva;47.4983902;8.7301298;Winterthur;8400;Steinberggasse;2;pub;;;;"Mo,We,Th 08:00-24:00, Tu 07:00-24:00, Fr 07:00-01:00, Sa 08:30-01:00, Su 12:00-22:00";;
+359690720;Obergass;47.4988710;8.7301867;;;;;restaurant;;;yes;Mo 17:00-24:00; Tu-Fr 08:00-24:00; Sa 09:30-24:00;http://www.restaurant-obergass.ch/;no
+359690786;Tamam;47.4979455;8.7294072;Winterthur;8400;Technikumstrasse;28;fast_food;kebab;mediterranean;;;Tu-Sa 11:00-21:30; Mo 11:00-21:00;;no
+359690871;Sonne;47.4996801;8.7298391;Winterthur;8400;Marktgasse;15;restaurant;regional;;;"We-Su 11:00-14:30,17:00-22:00+";https://www.zur-sonne.ch/;
+359691092;La Pergola;47.5001230;8.7291699;Winterthur;8400;Stadthausstrasse;71;restaurant;italian;;yes;"Mo-Sa 09:00-14:00,17:00-23:00; Su off";https://www.la-pergola.ch/;limited
+359691412;Cantinetta Bindella;47.4997238;8.7287787;Winterthur;8400;Marktgasse;44;restaurant;italian;;yes;Mo-Sa 11:30-22:30; Su 12:00-22:00;https://www.bindella.ch/de/cantinetta-bindella-winterthur.html;yes
+359692073;Orsini;47.4987259;8.7247369;Winterthur;8400;Technikumstrasse;96;restaurant;;;yes;"Mo,Tu 10:00-22:00; We-Fr 10:00-23:00; Sa 15:00-23:00";;no
+359692293;Stricker’s;47.4995420;8.7201703;;;;;restaurant;international;burger;regional;tapas;yes;yes;Mo-Th 11:00-23:00; Fr 11:00-24:00; Sa 09:00-24:00; Su 09:00-16:00;https://restaurant-strickers.ch/;no
+359692440;Bellevue;47.5019996;8.7185647;;;;;restaurant;italian;;yes;Mo-Su 10:00-23:00;https://bellevue-pizzeria.ch/;no
+359692842;Stadion;47.5023945;8.7182843;;;;;restaurant;;;;Mo-Fr 06:45-23:00; Sa 08:00-19:00; Su 08:00-14:00;;
+359693315;Central;47.5060238;8.7148178;;;;;restaurant;;;;"Mo-Fr 08:00-14:00, 16:00-23:00; Sa 17:00-23:00";;
+359694751;No18;47.5042060;8.7206480;Winterthur;8400;Wülflingerstrasse;18;restaurant;regional;;;Th-We 11:30-01:00; Th-Fr 11:30-02:00; Sa 15:00-02:00;https://18-winterthur.ch/;
+359694784;Tandoor;47.5046210;8.7195676;;;;;restaurant;indian;;;"Mo-Fr 11:00-14:00,18:00-24:00;Sa-Su 18:00-24:00";http://www.restaurant-tandoor.ch/;no
+359695274;Piazza;47.5052041;8.7172595;Winterthur;8400;Walkestrasse;23;restaurant;pizza;kebab;;;"Mo-Th 17:00-22:30, Fr 17:00-23:00, Sa 12:00-23:00, Su 12:00-22:00";https://www.piazzapizza.ch/;
+359700824;Lori Take Away;47.5073743;8.7258670;Winterthur;8400;Brunngasse;41;fast_food;kebab;;;Mo-Th 10:00-23:00; Fr-Sa 10:00-24:00; Su 10:00-23:00;;no
+359701183;Äusserer Lindhof;47.5077581;8.7253968;Winterthur;8400;Blatterstrasse;1;restaurant;regional;;;"Mo 06:00-13:30; Tu-Fr 06:00-13:30, 16:00-22:00; Sa 08:00-14:00";;
+369825427;Salitre;47.4961895;8.6986067;;;;;restaurant;;;;;;
+380488748;Punto e Pasta;47.4991725;8.7313796;;;;;restaurant;italian;;;Oct 1-Apr 30 Mo-Su 11:00-23:30; May 1-Sep 30 Mo-Su 11:00-24:00;https://punto-et-pasta.ch/;yes
+382989332;Barnabas;47.4966260;8.7274275;Winterthur;8400;Büelrainstrasse;1;restaurant;asian;;yes;Tu-Sa 18:00-23:00;https://barnabaswinti.ch/;no
+387228479;Billabong Sport's & Music Bar;47.4843234;8.7025990;Winterthur;8406;Zürcherstrasse;260;bar;australian;yes;yes;06:00-00:00; Sa 14:00-00:00; Su off;http://www.billabong-pub.ch/;
+387450211;Das schmale Handtuch;47.4972516;8.7275212;;;;;pub;;;yes;"Tu-Th 16:00-24:00, Fr 16:00-02:00, Sa 18:00-02:00";http://www.dasschmalehandtuch.ch/;limited
+412728346;Blumenau;47.5073010;8.7108669;;;;;restaurant;regional;;;;;
+412729253;Haku;47.4984069;8.7381431;;;;;restaurant;japanese;;;"Tu-Sa 11:00-14:00,17:30-22:00";https://www.haku-restaurant.ch/home;limited
+412760190;Oliveira;47.4912979;8.7075577;Winterthur;8406;Stationsstrasse;3;restaurant;portuguese;;;Tu-Fr 10:30-22:00; Sa 10:00-22:00; Su 10:00-20:00;;no
+441314886;Freieck;47.4803434;8.7639702;;;;;restaurant;;;;"Su-Tu 10:00-23:30, Fr,Sa 10:00-00:30";;
+471627998;Baby;47.4981269;8.7232638;Winterthur;8400;Untere Vogelsangstrasse;7;pub;;;;;;
+471627999;Archbar;47.4985743;8.7234927;Winterthur;8400;Archstrasse;2;pub;;;;Mo-Fr 16:30+; Sa 19:00+;;
+471628000;Molino;47.4994389;8.7277569;Winterthur;8400;Marktgasse;45;restaurant;pizza;;;Mo-Su 10:00-23:00;https://molino.ch/de/pizzeria-ristorante-molino-winterthur;limited
+472383224;1st Choice;47.5107345;8.6944731;;;;;bar;;;;;;
+472774192;Zermatt Kebap Haus;47.4978528;8.7285770;Winterthur;8400;Technikumstrasse;42;fast_food;kebab;;;;;no
+498891528;San Remo;47.5071480;8.7257511;Winterthur;8400;Brunngasse;35;restaurant;italian;;yes;"Mo-Fr 11:00-14:00,17:30-22:30; Sa 17:30-22:30; PH off";;
+534876365;Buon Gusto;47.5050499;8.7184541;;;;;restaurant;;;yes;"Mo-Fr 11:00-14:00, Mo-Fr 17:00-22:00+; Sa 18:00-22:00+";;
+534878149;nachbarsbox;47.5048564;8.7189785;Winterthur;8400;Wülflingerstrasse;28;restaurant;grill;salad;bread;;yes;"Mo, Tu, Th 07:00-18:00; We, Fr 07:00-24:00; Sa, Su, PH off";https://www.facebook.com/nachbarsbox/;
+534917835;Bistro Alte Kaserne;47.4979559;8.7313352;Winterthur;8403;Technikumstrasse;8;restaurant;;;;Mo-Fr 09:00-22:30; Sa 15:00-22:30;https://altekaserne.ch/bistro/;
+548913444;Schwimmbad Wülflingen;47.5120340;8.6848455;;;;;restaurant;;;;;;
+548915072;Weinberg;47.5163992;8.6795583;;;;;restaurant;;;;;;
+548920489;La Bodega Carlo;47.5026529;8.7198587;;;;;restaurant;spanish;;;"Tu-Fr 08:30-14:00,17:00-23:00; Sa 09:30-14:00,17:00-23:00";;limited
+548920518;Osteria del fiore;47.5012974;8.7212681;;;;;restaurant;italian;;;"Mo-Fr 11:30-14:00,18:00-23:00; Sa 16:00-24:00; Su 16:00-22:00";https://www.osteriadelfiore.ch/;
+548920700;Fu Ji;47.4989065;8.7212551;;8400;Strickerstrasse;3;restaurant;asian;yes;yes;Mo-Su 11:00-22:00;https://fujirestaurant.ch/;yes
+556746551;Pizzeria Schwanen;47.4941104;8.7145030;;;;;restaurant;pizza;pasta;yes;yes;"Mo-Fr 08:30-14:00,17:00-24:00; Sa 17:00-23:00";;no
+560156308;Maharaja Curry;47.5011461;8.7211262;Winterthur;8400;Wartstrasse;23;restaurant;indian;;no;"Mo-Fr 11:30-14:00,18:00-23:00; Sa 18:00-23:00";https://www.maharaja-curry.ch;no
+560157037;Tibet Bistro;47.5017718;8.7209446;;;;;restaurant;tibetan;;;"Tu 17:30-21:30; We-Su 11:30-14:00, 17:30-21:30";;
+561504426;Food Corner Swiss;47.4990805;8.7234884;;;;;fast_food;kebab;no;pedestrian_zone;Su-Th 11:00-02:00; Fr-Sa 11:00-06:00;https://www.foodcorner-swiss.ch/;yes
+561504452;La Torre;47.4978808;8.7235621;;;;;restaurant;;;;;;
+561524250;Winti-Kanne;47.4981673;8.7291301;Winterthur;8400;Steinberggasse;25;restaurant;regional;mediterranean;;;"Tu-Fr 11:30-14:00,18:00+; Sa 18:00+; Mo,Su open ""Auf Anfrage""; PH closed";https://www.wintikanne.ch/;
+564669032;Sargin Kebap Haus;47.4912971;8.7067075;;;;;fast_food;kebab;;;"Tu-Fr 10:00-21:00; Sa,Su 11:00-21:00";;no
+564669037;Poly;47.4914174;8.7061859;;;;;fast_food;kebab;;;;;
+564670033;Kuhn;47.4993780;8.7219049;;;;;cafe;;yes;yes;Mo-Fr 06:30-20:00; Sa 07:00-18:00; May-Oct Su 08:00-14:00; Nov-Apr Su 08:00-17:00;;limited
+564670042;Boulevard;47.4995031;8.7244639;Winterthur;8400;Stadthausstrasse;143;restaurant;burger;;;"Mo-Th 05:45-00:30, Fr 05:45-02:30, Sa 09:00-02:30, Su 10:30-00:30";;no
+564670052;Gilgamesh Bar und Lounge;47.4996240;8.7253230;Winterthur;8400;Stadthausstrasse;135;pub;;;;"Mo-Th 12:00-02:00, Fr,Sa 12:00-05:00, Su 13:00-02:00";;
+564888514;Brauhaus;47.4986288;8.7261468;Winterthur;8400;Neumarkt;7;restaurant;;;yes;"We,Th 11:00-23:30; Fr 16:00-23:30; Sa 14:00-23:30; Su 10:00-15:00";https://www.brauhaus.ch/gastro-winterthur;limited
+564888543;Restaurant Alterszentrum Neumarkt;47.4986144;8.7267513;Winterthur;8400;Neumarkt;6;restaurant;regional;;;Mo-Fr 07:30-17:00;;yes
+574671585;Labüsch Bar;47.4950888;8.7178027;;;;;pub;;yes;yes;;https://labuesch.com/de/bar_galerie;
+574685031;Manta Bar;47.4983110;8.7172632;Winterthur;8400;Neuwiesenstrasse;1;fast_food;;yes;yes;Mo-Fr 09:00-15:00;;limited
+593846241;El Burrito Feliz;47.4994087;8.7198400;Winterthur;8400;Schützenstrasse;8;restaurant;mexican;;yes;"Mo-Sa 11:30-14:00,17:30-22:00; PH closed";https://www.elburritofeliz.ch/;limited
+632149361;Rössli;47.4822603;8.7612293;;;;;restaurant;;;;Tu-Fr 08:30-23:00; Sa 11:00-23:00; Su 11:00-17:00;;
+648047492;Al Mouchtar;47.5020586;8.7270092;Winterthur;8400;Theaterstrasse;7;fast_food;syrian;;;Mo-Su 10:00-20:00;;no
+651516557;Sonne;47.4840926;8.7597534;;;;;restaurant;pizza;;;;;
+659475608;Hermannseck;47.4981027;8.7409953;;;;;restaurant;regional;;;Mo-Fr 09:00-23:00; Sa 17:00-23:30;;no
+663893225;Eulach-Treff;47.5108415;8.6951973;;;;;restaurant;;;;;;
+675161654;Locanda Trivisiano;47.4997184;8.7261232;Winterthur;8400;Stadthausstrasse;121;cafe;;;;Mo-Sa 09:00-24:00;;
+675161668;Royal Döner;47.4996060;8.7251847;Winterthur;8400;Stadthausstrasse;137;fast_food;;;;;;yes
+677194766;Tom Yam;47.5035719;8.7521674;;;;;restaurant;thai;;;"Mo-Fr 11:00-14:00,17:30-23:00; Sa 17:30-23:00";;
+687625761;LoiMy;47.5000603;8.7285738;Winterthur;8400;Stadthausstrasse;83;cafe;bubble_tea;;;"Mo,We,Fr 11:30-18:00; Sa 11:30-17:00";;
+703057903;Ocean Five;47.4985230;8.7261594;Winterthur;8400;Neumarkt;5;restaurant;burger;;yes;"Mo-Th 11:00-00:30, Fr 11:00-02:30, Sa 12:00-02:30, Su 17:00-00:30";https://www.oceanfive.ch/;limited
+703057906;Zum Goldenen Horn;47.4988298;8.7261226;;;Neumarkt;13;restaurant;turkish;;;"Mo-Th 11:00-23:00; Fr, Sa 11:00-00:00; Su 12:00-21:00";;limited
+705760974;Breite;47.4901635;8.7256654;;;;;restaurant;;;;;;no
+708997924;Tearoom Teekult;47.4981741;8.7292903;Winterthur;8400;Steinberggasse;21;pub;;;;Tu-Fr 11:30-18:30; Mo 11:30-18:30; Sa 09:00-17:00;https://www.teekult.ch/;no
+709022313;Insieme;47.4984079;8.7288259;Winterthur;8400;Steinberggasse;24;cafe;italian;;;;https://insieme-piadineria.ch/;
+709078361;Café Zentrum;47.4989510;8.7260438;;;;;cafe;;;;"Mo 08:30-17:00; Tu 08:00-18:30; We, Th 08:30-18:30; Fr 08:00-18:30; Sa 08:30-18:30; Su 10:00-17:00";;
+710880571;Silberkeller;47.4983744;8.7282627;Winterthur;8400;Steinberggasse;26;restaurant;;;no;;http://www.silberkeller.ch;
+712608636;Lucky Smash;47.4980881;8.7276003;;;;;restaurant;burger;;;"Mo,Su off; Tu-Th 18:00-21:30; Fr 18:00-22:30; Sa 16:00-22:30";;
+731833436;Tech Point;47.4978010;8.7276201;;;;;fast_food;kebab;;;;;
+738947656;Kaffeeleben;47.4991238;8.7277049;Winterthur;8400;Metzggasse;16;cafe;;;;"Mo,Su off; Tu-Sa 09:00-17:00";https://kaffeeleben.ch/;no
+749913670;Bistro La Couronne;47.4991204;8.7274751;Winterthur;;Marktgasse;49;restaurant;;;;;https://www.kronewinterthur.ch/;
+749928336;il salottino;47.4985477;8.7287480;Winterthur;8400;Pfarrgasse;4;pub;;;;"Su,Mo off; Tu,Th,Fr 09:00+; We,Sa 14:00-18:00+";https://ilsalottino.ch/;
+763523652;De Tapas;47.4981734;8.7316880;Winterthur;8400;Tösstalstrasse;8;restaurant;;;;Tu-Fr 17:00-23:00; Sa 15:00-23:00;;
+763523653;La Panetteria;47.4981861;8.7315850;Winterthur;8400;Tösstalstrasse;6;restaurant;;;;"Mo-Fr 11:00-14:00,17:30-23:00; Sa 18:00-23:00";;
+763523656;Green Klub;47.4980864;8.7322430;Winterthur;8400;Tösstalstrasse;18;bar;;;;;;
+854335396;Restaurant Technorama (ZFV);47.5136440;8.7644672;;;;;restaurant;;yes;yes;Mo-Su 10:00-17:00;;yes
+917755893;Eurest / Restaurant Technopark Winterthur;47.4946208;8.7167601;Winterthur;8406;Technoparkstrasse;2;food_court;;;;Mo-Fr 07:00-14:00;https://clients.eurest.ch/de/tpw/home;yes
+927397061;Grill - Take Away;47.5196057;8.7179758;;;;;fast_food;;;;;;limited
+966324137;Banane;47.5042768;8.7255421;;;;;restaurant;;;;"Mo-Su 11:30-14:00, 18:00-22:30";;
+966324570;Banana Bar;47.5042006;8.7255233;;;;;bar;;;;;;
+1092038913;;47.4888569;8.7287145;;;;;bbq;;;;;;
+1328945988;Mare et Monti;47.4849589;8.7629776;;;;;restaurant;;;;;;yes
+1374191997;Sessel;47.4622906;8.7714855;;;;;bbq;;;;;;
+1479407508;Schloss Wülflingen;47.5113417;8.6995040;Winterthur;8408;Wülflingerstrasse;214;restaurant;regional;;yes;"Mo-Fr 11:00-14:00,17:30-22:00; Sa-Su 11:00-22:00";http://www.schlosswuelflingen.ch/;limited
+1483019192;Cotton Corner Bar;47.5013615;8.7260868;;;;;pub;;;;"Mo-Th 08:45-24:00, Fr 08:45-01:00, Sa 16:00-01:00";;no
+1488980360;Zum grünen Hund;47.4907705;8.7125390;;;;;restaurant;regional;;;"""temporarily closed""";http://gruenerhund.ch;
+1519474203;Migros Restaurant;47.4853872;8.7627865;Winterthur;8405;Hinterdorfstrasse;40;restaurant;international;;no;"Mo-We 08:00-19:00; Th,Fr 08:00-20:00; Sa 08:00-18:00";https://filialen.migros.ch/de/migros-restaurant-winterthur-seen;
+1519868844;Bodega Bar;47.4997012;8.7243780;;;;;cafe;;;;Mo-We 09:00-22:30; Th-Sa 09:00-23:30; Su 10:00-21:30;;
+1531299433;Kiosk AG;47.4979196;8.7165097;;;;;fast_food;;yes;no;Mo-Fr 08:00-14:00;;limited
+2172799512;Siam Chili;47.5040910;8.7294585;Winterthur;8400;Lindstrasse;27;restaurant;thai;;;Mo 09:00-14:30; Tu-Fr 09:00-20:00;;
+2424697821;Café Augenblick;47.5071968;8.7548674;;;;;cafe;;yes;yes;"We,Fr 08:00-19:00; Sa 09:00-17:00; Su 10:00-17:00; Th 08:00-19:00";;outside
+2424718821;Restaurant Pizzeria Schmiede;47.5063228;8.7571254;;;;;restaurant;italian;;;"Mo-Fr 11:00-13:00, 17:00-22:00; Sa-Su 17:00-22:00";;
+2424720789;Bahnhöfli Oberi;47.5078362;8.7585596;Winterthur;8404;Römertorstrasse;4;restaurant;;;;Tu-Th 11:30-23:00; Fr 11:30-00:00; Sa 16:00-00:00;https://bahnhoefli-oberi.ch;
+2424723261;Restaurant Sonneck;47.5072954;8.7541469;;;Römerstrasse;159;restaurant;regional;;;"Mo-Th 09:00-14:00, Fr 09:00-14:00, Mo-Th 16:30-23:30, Fr 16:30-24:00";https://www.sunnegg.ch;yes
+2424724704;Matterhorn;47.5074494;8.7549274;;8404;Römerstrasse;;fast_food;kebab;;streetside;"Su,Mo 09:00-22:00; Tu-Sa 09:00-23:00";;no
+2424724937;Thai Lotos Garden;47.5075362;8.7551433;;;;;restaurant;thai;;;"Tu-Fr 11:30-14:00,17:30-23:00; Sa 17:30-23:00";;no
+2451608588;Shimbala;47.5048376;8.7660267;Winterthur;8404;Ida-Sträuli-Strasse;71;restaurant;tibetan;sushi;indian;western;yes;yes;"Mo-Fr 11:00-14:30, 17:30-22:00; Sa 17:00-22:00";https://shimbala.ch/;yes
+2451641185;Gerry's Bar;47.5044596;8.7636097;Winterthur;8404;Else-Züblin-Strasse;;restaurant;pizza;;;"Tu-Fr 09:30-14:30, We-Su 17:00-22:00";https://www.gerrysbar.ch/;yes
+2451643514;Restaurant Eulachpark;47.5046920;8.7628234;;;Barbara-Reinhart-Strasse;;restaurant;;;;"Tu 10:00-15:00, We-Th 10:00-22:00, Fr-Sa 10:00+, Su 11:00-21:00";https://www.restaurant-eulachpark.ch/;yes
+2457539648;Restaurant Burehus;47.4866133;8.7594559;;;;;restaurant;regional;;;Mo-Fr 09:00-23:30; Su 11:00-17:00;;
+2466736061;Tres Amigos;47.5006088;8.7270725;;;;;restaurant;mexican;;yes;"Mo-Th 10:00-24:00, Fr-Sa 10:00-02:00, Su 10:00-23:00";https://www.tresamigos.ch/winterthur/;no
+2486983218;Kafi Müli;47.5060346;8.7603588;;;Hegifeldstrasse;2a;restaurant;coffee_shop;yes;yes;Mo-Fr 08:30-16:30;https://www.kafimueli.ch;
+2493971952;Bloom;47.5010807;8.7325260;;;;;restaurant;;;;"Mo-Fr 06:30-23:00; Sa,Su 07:00-23:00";https://bloom.ch/;
+2540938577;Asia King;47.4901982;8.7093650;;;;;restaurant;nepalese;;;;;
+2546033390;Cooperativa;47.5013027;8.7258319;Winterthur;8400;Museumstrasse;74;restaurant;;;;Tu-Sa 16:00-23:00;;
+2570468652;Al Giardino;47.4943016;8.7399559;Winterthur;8400;Tösstalstrasse;70;restaurant;italian;french;spanish;;;"Tu-Th 11:30-14:00,17:30-23:30; Fr 11:30-14:00,17:30-24:00; Sa 17:30-24:00; Su,Mo off";https://algiardino.ch/;
+2649686873;imo Döner;47.5071594;8.7123153;Winterthur;;Wülflingerstrasse;66;fast_food;kebab;;;;;
+2666984905;Bistro Gate 27;47.5038264;8.7285402;;;Theaterstrasse;27b;restaurant;;;;Mo-Fr 09:00-14:30;;yes
+2795232150;Thai Bamboo;47.5001143;8.7293120;;;;;restaurant;thai;;;"Mo-Sa 11:30-14:00,17:00-22:00; Su 17:00-22:00";https://thaistyle-winterthur.ch/;
+2941529903;Grand Café du Musée;47.4991780;8.7294806;Winterthur;8400;Kirchplatz;14;cafe;;;;;;
+2955638928;Taggenberg;47.5197332;8.6842279;;;;;restaurant;;;;;;
+3124969715;Dunkin';47.4992989;8.7241073;Winterthur;8400;Bahnhofplatz;4;fast_food;donut;coffee_shop;;;"Mo-Sa 08:00-21:00; PH,Su 09:00-20:00";;
+3124969719;Manta Sandwich-Bar;47.4998710;8.7312983;;;;;fast_food;;;yes;"Mo-We,Fr 07:30-19:00; Th 07:30-20:00; Sa 08:00-18:00; Su 11:00-18:00";;limited
+3275087003;Culinarium Museumstrasse;47.5010925;8.7355238;;;;;restaurant;;;;Mo-Fr 11:30-13:30;http://culinarium-museumstrasse.sv-group.ch/;
+3275087004;Culinarium Museumstrasse;47.5011816;8.7353616;;;;;cafe;;;;Mo-Fr 07:30-15:30;http://culinarium-museumstrasse.sv-group.ch/;
+3305701136;Lina's Bar;47.5016523;8.7201640;Winterthur;8400;Wartstrasse;38;bar;;;yes;Mo-Sa 16:00-24:00;http://www.linas-bar.ch/;no
+3373091672;Cafeteria;47.4964388;8.7189114;;;;;cafe;;yes;no;;;yes
+3445108925;Manta Bar;47.5000287;8.7244305;;;;;fast_food;;;;Mo-Fr 07:30-19:00; Sa 08:30-18:30;http://www.manta-bar.ch/;yes
+3483494147;Subway;47.4990841;8.7263487;;;;;fast_food;sandwich;yes;yes;"Mo-Th 11:00-21:00; Fr,Sa 11:00-22:00; Su,PH 12:00-21:00";http://subway-sandwiches.ch;yes
+3784367094;nooba;47.4983033;8.7212739;Winterthur;8400;Zürcherstrasse;1-3;restaurant;indian;japanese;thai;yes;yes;Mo-Fr 10:00-20:00; Sa 10:00-18:00;;yes
+3814637457;Restaurant Eulachstrand;47.4961460;8.7401724;;;;;restaurant;;;;;https://www.laebesruum.ch/restaurant/;limited
+3976628874;Caliente;47.5052219;8.7097444;;;;;restaurant;pizza;;;;;no
+4009059218;Bistro SEIN;47.4965966;8.7479413;Winterthur;8404;Industriestrasse;1;restaurant;;;;Tu-Fr 09:00-18:00;https://www.bistrosein.ch/;
+4058248569;The Scotsman;47.4988858;8.7329483;Winterthur;8400;General-Guisan-Strasse;19;pub;;yes;no;"Mo-Th 17:00-24:00, Fr 17:00-02:00, Sa 15:00-02:00, Su 15:00-23:00";https://www.thescotsman.ch/;
+4058248571;Bangkok Karaoke;47.4993110;8.7331624;Winterthur;8400;General-Guisan-Strasse;31;pub;;;;"Fr,Sa 22:00-05:00";;
+4077210830;Schneider;47.4911301;8.7064274;;;;;cafe;;;;Mo-Fr 06:00-18:30; Sa 07:00-16:00; Su 08:00-16:00;;yes
+4081017595;EMMA Bett und Bistro;47.4986758;8.7313473;Winterthur;8400;Oberer Graben;8;cafe;regional;oriental;yes;yes;;https://www.emma-bb.ch;no
+4083411849;Lou Salomé;47.4988997;8.7295578;;;;;cafe;;;;;;
+4095400139;Gottlieber;47.4990151;8.7214453;;;;;cafe;;yes;yes;Mo-Fr 07:30-20:00; Sa 07:30-18:00; Su 10:00-18:00;;yes
+4095400149;Boilerroom;47.4982504;8.7210260;Winterthur;8400;Zürcherstrasse;1-3;pub;;;;"Mo-Th 17:00-23:00, Fr-Sa 17:00-01:00, Su 14:30-22:00";https://www.boilerroom.ch/;
+4095400151;Yooji's;47.4980587;8.7212955;Winterthur;8400;Zürcherstrasse;1-3;restaurant;sushi;;;Mo-Sa 11:00-23:00; Su 17:00-22:00;https://www.yoojis.com/standorte/winterthur-i-kesselhaus/;
+4095400161;Les Coulisses;47.5018041;8.7279949;Winterthur;8402;Theaterstrasse;6;bar;;;;;;
+4095400162;Café Restaurant Urban;47.4882213;8.7590845;;;;;cafe;;;;Mo 11:00-16:30; Tu-Su 09:00-17:30;;
+4095400163;Café Roman;47.5043234;8.7536581;Winterthur;8404;Frauenfelderstrasse;76;cafe;;;;Mo-Fr 07:00-23:00; Sa 08:00-19:00; Su 09:00-19:00;https://cafe-roman.ch/;
+4095400164;Café «Am Römerholz»;47.5111731;8.7319184;;;;;cafe;;;;;;
+4095400165;eve Bar & Lounge;47.4978696;8.7260518;Winterthur;8400;Technikumstrasse;73;bar;;yes;yes;"Tu-We 16:00-24:00; Th 16:00-01:00; Fr-Sa 16:00+; PH closed; Th-Sa 20:00+ open ""Eintritt ab 21 Jahren""";https://evelounge.ch/;limited
+4095400166;Residenz Café;47.5016426;8.7226017;;;;;cafe;;;;"PH,Mo-Su 08:00-21:00";;
+4095400168;Frohsinn Eidberg;47.4747413;8.7944503;;;;;restaurant;;;;;;
+4095400169;Pionier;47.4972039;8.7192311;;;;;restaurant;;;;Mo-Fr 07:30-15:30;;yes
+4095400171;Echt KungFu;47.4935324;8.7593093;Winterthur;8404;Rudolf-Diesel-Strasse;28;restaurant;asian;chinese;;yes;"Tu-Sa 11:00-14:00, 16:30-22:00; Su 16:30-22:00";https://www.echtkungfu.ch/;
+4095400172;Trois Tilleuls;47.5101955;8.7301421;;;;;restaurant;;;;Mo-Su 08:00-22:00;;
+4095400173;Villa Sträuli;47.5016738;8.7288079;;;;;restaurant;;;;May-Sep: Tu-Fr 11:30-14:00; Nov-Mar: Tu-Fr 11:30-14:00;https://www.villastraeuli.ch/;
+4095400175;Stadtrain;47.5010572;8.7463217;Winterthur;8404;Römerstrasse;71;restaurant;;;;Mo-Fr 08:30-23:30; Sa 11:00-23:30;;
+4095400177;Habibi;47.5014450;8.7473946;;;;;fast_food;;;;;;
+4095400181;Kebab Treff Oberwinterthur;47.5045784;8.7542254;Winterthur;8404;Frauenfelderstrasse;72;fast_food;kebab;;;"Mo-We,Su 10:00-22:00; Fr-Sa 10:00-23:00";;yes
+4095400186;Negishi Sushi Bar;47.4983532;8.7247212;Winterthur;8400;Archplatz;2;restaurant;sushi;;;;https://www.negishi.ch/winterthur-archhoefe;
+4095400191;Gutschick;47.4917711;8.7502515;Winterthur;8400;Scheideggstrasse;10;restaurant;pizza;;;Mo-Sa 08:30-23:00; Su 09:30-22:00;;
+4095400192;Gianni's;47.4913296;8.7497603;Winterthur;8400;Scheideggstrasse;6;restaurant;pizza;;;"Mo-Fr 11:00-14:00,17:00-22:00; Sa,Su 17:00-22:00";;
+4095400193;Nachbarsgarten;47.5058456;8.7194072;;;;;restaurant;;yes;yes;Tu-Sa 17:00-23:30;;no
+4095987418;Gastronomie am Gleis;47.5016730;8.7235598;Winterthur;8400;Rudolfstrasse;21;restaurant;italian;yes;yes;Mo-We 08:00-23:00; Th 08:00-24:00; Fr 08:00-01:00; Sa 08:00-00:30; Su 13:00-23:00;https://www.gastronomieamgleiswinterthur.ch/;yes
+4095987419;Thai Bistro;47.5009501;8.7222403;Winterthur;8400;Wartstrasse;12;restaurant;thai;;yes;11:30-22:00;https://www.malaithai.ch;limited
+4095987420;Café Kunterbunt;47.5092781;8.7172208;;8400;Bachtelstrasse;72;cafe;;;;"Mo,Th-Sa 09:00-19:00; Su 09:00-18:00";https://cafekunterbunt.ch;no
+4095987421;Ristorante Caruso;47.4917878;8.7137065;Winterthur;8406;Tössfeldstrasse;30;restaurant;;;;;;
+4095987423;Sanook;47.4984732;8.7363658;Winterthur;8400;St. Gallerstrasse;27;restaurant;thai;;;Mo-Fr 11:00-14:00; Mo-Th 17:30-22:00; Fr-Sa 17:30-05:00;;
+4095987424;Castello;47.4879822;8.7089972;Winterthur;8406;Klosterstrasse;50;restaurant;italian;;;;;
+4095987426;Euro Pizza;47.5148496;8.7591591;Winterthur;8404;Sonnenblickstrasse;1;restaurant;pizza;;;"Tu-Fr 11:00-13:30, Tu-Sa 17:00-22:00";;
+4095987428;Dieci Pizzakurier;47.4984106;8.7373286;Winterthur;8400;St. Gallerstrasse;35;fast_food;pizza;;;"Mo-Th 11:00-13:30,17:00-22:00; Fr,Sa 11:00-13:30,17:00-23:00; Su 11:00-22:00";https://www.dieci.ch/de/pizzakurier-winterthur;
+4095987429;Kongresshaus Liebestrasse;47.5022980;8.7296633;;;;;restaurant;;;;;;
+4095987430;Viet-Long;47.4932416;8.7428894;Winterthur;8400;Allmannstrasse;20;fast_food;vietnamese;asian;;;"Mo-Fr 11:00-14:00,17:00-22:00; Sa,Su 16:30-22:00";https://www.vietlong.ch;
+4095987433;Bocciodromo Pizzeria;47.5076476;8.7084093;;;Flüelistrasse;9;restaurant;pizza;;;Tu-Fr 14:00-23:00; Sa-Su 11:00-23:00;https://bocciodromo.ch/;
+4095987434;Il Sapore;47.4891927;8.7028247;Winterthur;8406;Zürcherstrasse;208;restaurant;swiss;italian;pizza;;yes;;https://www.ilsapore.ch;limited
+4095987435;Wirtschaft Zur Eintracht;47.5270733;8.7515018;Reutlingen (Winterthur);8404;Reutlingerstrasse;67;restaurant;regional;;;Tu-Fr 11:00-24:00; Sa 17:00-24:00;https://eintracht-reutlingen.ch/;
+4095987437;Neuburg;47.4967438;8.6763834;Winterthur;8408;Neuburgstrasse;63;restaurant;regional;barbecue;fine_dining;fondue;;yes;"We-Sa 11:00-14:00,17:30-23:00; Su 11:00-22:00; Mo,Tu off";https://neuburg.ch/;
+4095987438;Grotto Maienried;47.5169456;8.6847910;Winterthur;8408;Maienriedweg;42;restaurant;ticinese;;;;;
+4109460415;Argentina;47.5004248;8.7226484;Winterthur;8400;Rudolfstrasse;15;restaurant;steak_house;yes;yes;"Mo-Sa 10:00-24:00; Su,PH 10:00-22:00";https://www.steakhouse-argentina.ch/de/p/standorte/winterthur-1086.html;limited
+4125136764;By Elvis;47.4763352;8.7041609;Winterthur;8406;Zürcherstrasse;322;restaurant;;;;;https://www.byelvis.ch/;
+4127859153;Coop Restaurant;47.4944515;8.7583632;Winterthur;8404;Rudolf-Diesel-Strasse;19;restaurant;german;;;Mo-Sa 08:00-20:00; PH off;;
+4143671995;Rüzgar;47.4945371;8.7118663;Winterthur;8406;Zürcherstrasse;57;cafe;;;;;;
+4143671996;Anadolu Imbiss;47.4944763;8.7117540;Winterthur;8406;Zürcherstrasse;59;fast_food;kebab;;;;;
+4143672000;Anita Bar;47.4923416;8.7082248;Winterthur;8406;Zürcherstrasse;93;bar;;;;;;
+4145958789;Billardcenter Borsalino;47.4993039;8.7457750;Winterthur;8400;Werkstrasse;16;restaurant;;;;"Mo-Th 14:00-24:00; Fr-Sa 14:00-02:00, Su 14:00-24:00";https://www.borsalino.li/;
+4153947940;Fabi Imbiss;47.5014552;8.7208153;Winterthur;8400;Wartstrasse;32;fast_food;kebab;;;Mo-Sa 10:00-23:00; Su 17:00-23:00;;
+4153947942;Maharaja Curry;47.5010717;8.7212270;Winterthur;8400;Wartstrasse;21;restaurant;;;;"Mo-Fr 11:30-14:00,18:00-23:00; Sa 18:00-23:00";;
+4189897373;Destiny 1;47.4896820;8.7034206;Winterthur;8406;Zürcherstrasse;198;pub;;;;;;
+4198831694;McQueen Fumoir;47.4979893;8.7258787;;;;;bar;;;;;;
+4198831696;Couleur Bar;47.4978328;8.7283764;Winterthur;8400;Technikumstrasse;46;pub;;;;;;
+4202897703;;47.4924859;8.7900381;;;;;bbq;;;;;;
+4202897704;;47.4915747;8.7970642;;;;;bbq;;;;;;
+4202897725;;47.5107324;8.7946002;;;;;bbq;;;;;;
+4202897726;;47.5198397;8.7659073;;;;;bbq;;;;;;
+4216125195;;47.4811470;8.7347509;;;;;bbq;;;;;;
+4216125196;;47.4809751;8.7349640;;;;;bbq;;;;;;
+4216125199;;47.4841331;8.6738055;;;;;bbq;;;;;;
+4216125201;;47.5167796;8.7004376;;;;;bbq;;;;;;
+4216125207;;47.5205374;8.6801382;;;;;bbq;;;;;;
+4232449290;Café Wyden;47.5115458;8.6810461;;;;;cafe;;;;Mo-Fr 08:00-17:00; Sa 08:00-12:00;;
+4238364555;Toodog Sushi;47.4980708;8.7437277;Winterthur;8400;St. Gallerstrasse;78;fast_food;sushi;;;"Mo-Fr 11:00-14:00, 17:00-22:00; Sa 17:00-22:00";https://www.toodogsushi.ch/;
+4350890743;Café Mélange;47.4843034;8.7641677;;;;;cafe;coffee_shop;;;Mo-Fr 14:00-18:00;https://www.cafe-melange.ch/;
+4358977790;Carl's Jr.;47.4998234;8.7308762;Winterthur;8400;Unterer Graben;33;fast_food;burger;;;Su-Th 10:00-22:00; Fr-Sa 10:00-24:00;https://www.carlsjr.ch/;
+4395329570;Weroz;47.4938563;8.7417544;;;;;fast_food;;;;Mo-Sa 10:00-22:00; Su 11:00-21:00;;
+4395329572;Sport Café;47.4938554;8.7420444;;;;;cafe;;;;;;
+4395329573;La Pizza Pasta;47.4930072;8.7433443;Winterthur;8400;Tösstalstrasse;89;fast_food;kebab;pizza;teigwaren;;;;https://lapizzapasta.ch;
+4395329576;Victoria;47.4907272;8.7471475;;;;;restaurant;pizza;;;Mo-Sa 08:00-22:00; Su 10:00-22:00;;
+4395329789;Sultan;47.4841776;8.7597092;;;;;restaurant;;;;;;
+4395329792;Taste of Asia;47.4837102;8.7606874;Winterthur;8405;Tösstalstrasse;249;restaurant;asian;;;;https://www.taste-of-asia.ch/;
+4395329797;Princess;47.4831540;8.7609805;;;;;bar;;;;;;
+4395329798;Krone Pub;47.4830710;8.7610753;;;;;pub;;;;;;
+4395953063;Feuerstelle;47.5109513;8.7886136;;;;;bbq;;;;;;
+4417689793;Domino's Pizza;47.5049501;8.7179070;;;;;fast_food;pizza;;;"Mo-Th 11:00-13:30, 17:00-23:00; Fr 11:00-13:30, 17:00-23:55; Sa 11:00-23:55; Su 11:00-23:00";https://www.dominos.ch/;
+4434577593;Villa Duchessa;47.5002649;8.7266443;Winterthur;8400;Stadthausstrasse;12;restaurant;italian;;yes;Mo-Sa 10:00-23:30; Su 10:30-23:00;https://villa-duchessa-winterthur.ch/;
+4456693165;Migros Take-Away;47.4974593;8.7616940;Winterthur;8404;Industriestrasse;44;fast_food;;;;"Mo-Fr 08:00-20:00, Sa 08:00-18:00; PH off";https://filialen.migros.ch/de/take-away-winterthur-gruezepark-i;
+4456693170;Nuu’s Thai Kitchen;47.5027681;8.7638016;;;;;fast_food;thai;yes;yes;"Mo-Fr 11:00-14:00,16:30-20:30; Su 16:30-20:30";;yes
+4456693174;Da Cristina;47.5036970;8.7638892;;;;;cafe;;;;;;
+4471606845;Allmanns Trend Food;47.5043819;8.7723984;;;;;fast_food;;;;;;yes
+4471698522;Caleiro Bar;47.4991947;8.7665296;;;;;bar;;;;;;
+4486137546;Migros Restaurant;47.5190680;8.7203977;Winterthur;8400;Schaffhauserstrasse;152;restaurant;;yes;no;;https://filialen.migros.ch/de/migros-restaurant-winterthur-rosenberg;
+4486137563;Rosen;47.5116104;8.7212509;Winterthur;8400;Loorstrasse;31;fast_food;turkish;;no;"Mo-Fr 11:00-14:30, 17:00-23:00; Sa-Su 11:00-23:00";https://restaurantrosen.business.site;no
+4585119394;Molly Malone;47.4965532;8.7463082;Winterthur;8400;Oberer Deutweg;4;pub;;;yes;;;yes
+4808524921;Hi und da;47.4993549;8.7304410;Winterthur;8400;Obergasse;32;pub;;;yes;Su-Mo off; Tu-Th 09:00-22:30; Fr-Sa 09:00-00:00;https://www.hiundda.ch/;limited
+4816412578;Bären;47.5109569;8.6926960;;;;;restaurant;;;;;;
+4816412579;Da Cosimo;47.5109301;8.6937446;;;;;restaurant;pizza;;;;;
+4836796658;Il Gelatino;47.4995031;8.7235461;;;;;ice_cream;;;;;;
+4868065118;Ziegelhütte;47.4782038;8.6987396;Winterthur;8406;Dättnauerstrasse;26;restaurant;;;yes;"Fr,Sa 18:00+ open ""bei Anlass""";https://mirvowinti.ch;limited
+4878656985;;47.5067900;8.6658336;;;;;bbq;;;;;;
+4879747524;Santa Rosa;47.5018878;8.7734895;Winterthur;8409;Stegackerstrasse;14;restaurant;pizza;italian;;;;;
+4885628315;Beans & Balls;47.5008327;8.7262681;;;;;fast_food;coffee_shop;bowls;;no;Tu-Fr 09:00-16:00;https://www.beansandballs.ch/;
+4885628316;Thaifood Like;47.5008974;8.7262466;;;;;fast_food;thai;;no;;;
+4885628318;Yosry’s ägyptischer Imbiss;47.5009606;8.7262267;;;;;fast_food;egyptian;;no;"Mo-We 11:30-17:00; Th-Fr 11:30-15:00, 18:00-20:00; Sa 11:30-17:00";;
+4952008723;Saffron;47.5054212;8.7146463;Winterthur;8400;Bürglistrasse;31;restaurant;indian;;yes;"Mo-Fr 11:30-14:00, 17:30-23:00; Sa 17:30-23:00; Su 17:30-22:30";https://saffronrestaurant.ch/;
+4985409623;Burger King;47.4991094;8.7247150;Winterthur;8400;Untertor;33;fast_food;burger;yes;yes;"Su-Th 10:00-24:00, Fr 10:00-05:00, Sa 10:00-06:00";https://www.burger-king.ch/de/store-locator/store/restaurant_239725;yes
+5007665837;;47.5052698;8.7657757;;;;;bbq;;;;;;
+5007665838;;47.5056555;8.7654124;;;;;bbq;;;;;;
+5007665839;;47.5054063;8.7640174;;;;;bbq;;;;;;
+5105876560;Bistro Auwiesen;47.4833624;8.7048969;;;;;cafe;;yes;yes;"Mo-Fr 08:30-14:00,16:30-21:00; Sa 10:00-14:00";;
+5109346567;Çakllani;47.4905043;8.7047391;Winterthur;8406;Zürcherstrasse;162;restaurant;balkan;;no;"Mo-Th 08:00-22:00; Fr-Sa 08:00-24:00, Su 08:00-22:00";https://www.restaurant-cakllani.ch/;
+5109346573;Lani;47.4924275;8.7069041;;;;;restaurant;;;;;;
+5112759070;COALMINE Café;47.5004004;8.7250816;;;;;cafe;;;;Mo-Fr 08:00-19:00; Sa 11:00-16:00;https://www.coalmine.ch/coalmine/cafe/;
+5144542839;Mira Mare;47.5017958;8.7535976;Winterthur;8404;Hegistrasse;35b;fast_food;pizza;italian;;;;;
+5205863978;Incontro;47.4912931;8.7340645;;;;;restaurant;italian;pizza;;;"Mo off; Tu, We, Fr 11:30-13:30, 17:30-21:00; Th, Su 17:30-21:00; Sa 11:30-21:00";http://www.incontropizza.ch/;
+5219634725;Terracina;47.4984412;8.7272400;;;;;restaurant;italian;noodle;pizza;;yes;;;limited
+5250896232;Grütli;47.4927256;8.7121796;;;;;restaurant;;;;;;
+5313864428;Sabi's Genuss Bistro;47.4984440;8.7277842;Winterthur;8400;Metzggasse;3;restaurant;;;;Tu 08:00-23:00; We-Th 09:00-23:00; Fr 08:00-24:00; Sa 09:00-24:00;https://www.sabisbistro.ch/;
+5320192449;Restaurant Rossberg;47.4624948;8.7146159;Kemptthal;8310;Rossbergstrasse;41;restaurant;regional;;no;;https://rossberg-winterthur.ch/;
+5380764624;Erb;47.4858482;8.7631807;Winterthur;8405;Hinterdorfstrasse;48;cafe;regional;;yes;Mo-Fr 07:30-18:30; Sa 07:30-18:00;https://www.erb-getraenke.ch/;
+5524939977;;47.5421892;8.7649288;;;;;bbq;;;;;;
+5575895524;Wirtschaft zum Landhaus;47.4886565;8.8038259;Räterschen;8352;Räterschenstrasse;34;restaurant;;;yes;"We-Sa 11:00-22:00, Su-Tu off";https://www.gastro-tipp.ch/tipps_profile_detail.php?profileIDX=2558;
+5596257036;;47.5041946;8.6867218;;;;;bbq;;;;;;
+5715924417;Monte Civetta;47.5089085;8.6921959;Winterthur;8408;Wieshofstrasse;44;restaurant;pizza;italian;;;;;no
+5727215156;Restaurant Rathaus;47.4998332;8.7298837;;;;;ice_cream;;;;"open ""Summer""";;yes
+5762237953;Roxy Vinyl Cafe;47.4984965;8.7321395;Winterthur;8400;Neustadtgasse;1a;cafe;;;;"Tu-Th 12:00-23:00; Fr,Sa 12:00-24:00; Su 12:00-18:00";;
+5763891100;;47.5126199;8.7524048;;;;;bbq;;;;;;
+5765890212;;47.5009119;8.7498160;;;;;bbq;;;;;;
+5770385050;Seen Pizza - Kebab;47.4844248;8.7628281;Winterthur;8405;Kanzleistrasse;17;fast_food;kebab;pizza;;;Mo-Fr 10:00-21:30; Sa 10:30-21:30;;
+5770385052;Sherazad;47.4963916;8.7458858;;;;;restaurant;pizza;;;;;
+5995223146;doode Coffee World;47.5001836;8.7329684;Winterthur;8400;Obertor;6;cafe;;;;"Mo,Tu 00:00-19:00; We-Sa 08:30-22:00; Su 10:00-17:00";;
+6063274103;House of Grill;47.4952300;8.7503609;;;;;restaurant;;;;Tu-Su 11:00-23:00;;
+6063274104;Domino's;47.4951468;8.7505642;;;;;fast_food;pizza;;;"Mo-Fr 11:00-13:30,17:00-24:00; Sa 11:00-24:00; Su 11:00-23:00";;
+6082078700;Tandoor Restaurant + Takeaway;47.5007586;8.7201508;;8400;;;restaurant;indian;;;Mo-Sa 10:00-20:00;http://www.indian-supermarket.ch/indian/supermarket;
+6223030513;Hasan's Sandwich;47.4979285;8.7292496;;;Technikumstrasse;32;fast_food;;;;Mo-Sa 11:00-20:30; Su off;https://www.instagram.com/hasanssandwich/;
+6269893385;Restaurant Schwimmbad Wolfensberg;47.5135566;8.7153827;;8400;;;restaurant;;;;;;
+6418842769;T4 Steibi;47.4983824;8.7299015;;;;;ice_cream;;;;;http://www.steibi-gelateria.ch;
+6504247617;Frischtheke;47.5040568;8.7638139;;;;;fast_food;;;;;;
+6510465867;Pizza con Amore;47.4924600;8.7084259;;;Zürcherstrasse;89;fast_food;pizza;;no;;;
+6815281822;JC's Housecafe;47.5058789;8.7302519;;;;;cafe;;;yes;Mo-Fr 08:00-18:00;;no
+6984983151;Esse Musicbar;47.4937273;8.7345161;Winterthur;8400;Zeughausstrasse;52;bar;;;;"We,Su 17:00-23:00; Th,Fr 17:00-24:00";https://www.esse-musicbar.ch/;
+7091616935;Fondue Keller;47.5026752;8.7199275;Winterthur;8400;Tellstrasse;15;restaurant;swiss;fondue;raclette;;no;Tu-Su 17:00-23:00;https://www.fonduekeller-winterthur.com/;limited
+7149547575;;47.5066484;8.7598637;;;;;bbq;;;;;;
+7149638851;;47.5028719;8.7622189;;;;;bbq;;;;;;
+7192989721;;47.4964351;8.7370622;;;;;bbq;;;;;;
+7231454924;Wintimomo;47.4995172;8.7197056;Winterthur;8400;Schützenstrasse;10;restaurant;;;no;Mo-Fr 11:00-14:00;;no
+7260721504;CUBE3;47.4986760;8.7279703;;;Metzggasse;10;cafe;;;;"Mo,We-Th,Sa 08:00-23:45; Tu,Fr 07:00-23:45; Su off";;
+7312246385;Ristorante ConCordia;47.5090675;8.7172061;;8400;;;restaurant;italian;;;"Tu-Th 17:30-23:00; Fr,Sa 17:30-23:30";https://con-cordia.ch/;
+7438158311;Migros Take-Away;47.5185529;8.7200141;Winterthur;8400;Schaffhauserstrasse;152;food_court;;;;"Mo-Fr 08:30-20:00, Sa 08:00-18:00; PH off";https://filialen.migros.ch/de/take-away-winterthur-rosenberg;
+7438158319;Conditorei Bäckerei Spatz;47.5181024;8.7205033;;;;;cafe;;;;;https://www.spatz-dessert.ch/;
+7438158320;Coffee Box Snack Bar;47.5188724;8.7207062;;;;;cafe;;;;;;
+7439496294;Kebab Treff;47.5105886;8.6951108;;;;;restaurant;kebab;;;;;
+7503079102;Asiaway Restaurant;47.4984124;8.7240672;Winterthur;8400;Archplatz;2;restaurant;;;;"Mo-Sa 11:30-14:00,17:30-22:00";https://asiaway.ch/;
+7503079115;ARCHiE Hot Dog Factory;47.4984097;8.7245477;;;;;fast_food;hot_dog;;;;;
+7503079116;Asiaway Lounge;47.4983773;8.7239922;Winterthur;8400;Archplatz;2;fast_food;;;;Mo-Sa 11:00-22:00;https://asiaway.ch/;
+7503079118;Café Archhöfe;47.4979542;8.7243914;Winterthur;8400;Archplatz;2;cafe;;;;Mo-Fr 09:00-20:00; Sa 09:00-18:00;https://www.cafearchhoefe.ch/;
+7632693412;My Home;47.4894776;8.7031772;Winterthur;8406;Zürcherstrasse;200;restaurant;;;yes;Mo-Su 06:30-21:00;;
+7640643967;;47.5144201;8.7374994;;;;;bbq;;;;;;
+7685026291;Migros Restaurant;47.4989820;8.7202505;;;;;restaurant;;;;Mo-Fr 08:00-20:00; Sa 08:00-18:00;https://filialen.migros.ch/de/migros-restaurant-winterthur-neuwiesen;
+7685026292;Migros Take-Away;47.4992587;8.7213153;Winterthur;8400;Strickerstrasse;3;food_court;;yes;no;"Mo-Fr 08:00-20:00, Sa 08:00-18:00; PH off";https://filialen.migros.ch/de/take-away-winterthur-neuwiesen-2;
+7734615697;Pura Vida;47.4984388;8.7301559;;;;;ice_cream;;yes;yes;Mo-Sa 12:00-20:00; Su 13:00-19:00;https://gelateria-puravida.ch/;
+7734615698;Hinterer Hecht;47.4981958;8.7314041;;;;;bar;;;;"Mo-Th 08:00-23:00, Fr 08:00-01:00, Sa 09:00-01:00";;
+7815260385;Cross;47.5007543;8.7265940;Winterthur;8400;Stadthausstrasse;10B;restaurant;barbecue;;yes;;https://www.crossbbq.ch/;
+7826688994;Industriehalle;47.4937731;8.7106155;Winterthur;8406;Untere Briggerstrasse;79;restaurant;pizza;;;Tu-Su 12:00-04:00;https://industriehalle-kurier.ch/;
+7845978708;Big Burger;47.4940136;8.7110655;;;Zürcherstrasse;65;restaurant;burger;;;;https://bigburger.ch/;
+7845978713;Indian King with Pizza;47.4970473;8.7010077;Winterthur;8406;Schlosstalstrasse;68;restaurant;indian;pizza;;;"Mo-Fr 11:30-14:00,17:30-22:00; Sa,Su 17:00-22:00";;
+7858249070;Brasserie Reh;47.4992908;8.7266065;Winterthur;8400;Marktgasse;61;restaurant;brasserie;french;;;"Mo-Th 08:00-22:00; Fr, Sa 08:00-23:00; Su 09:30-19:00";;
+7969145588;Wildrose Bistro;47.5054454;8.7174598;Winterthur;8400;Wülflingerstrasse;36;restaurant;;;;We-Fr 17:00+;https://wildrose-bistro.ch/;
+7992692128;Grüner Saal;47.5035992;8.7276785;;;;;restaurant;;;;Mo-Fr 11:00-14:00; PH off;https://gruener-saal.sv-restaurant.ch/;yes
+8128785390;Jimmy's;47.4980566;8.7304657;Winterthur;8400;Technikumstrasse;12;restaurant;burger;steak_house;;;Tu-Th 11:00-22:30; Fr-Sa 11:00-24:00; Su 11:00-22:30;;
+8199027204;Hans im Glück;47.5181922;8.7200889;Winterthur;8400;Schaffhauserstrasse;152;restaurant;burger;yes;yes;Mo-Su 11:00-23:00;https://hansimglueck-burgergrill.de/standort/winterthur-rosenberg;
+8519878955;Oberi Pizza;47.5077003;8.7554769;;;;;restaurant;pizza;;;"Tu-Th 11:00-13:00,17:00-22:00; Fr 11:00-13:30,17:00-23:00; Sa 17:00-23:00; Su,PH 12:00-22:00";;limited
+8550952236;BurgerChuchi;47.4986696;8.7308996;;;Unterer Graben;7;fast_food;burger;;;"Mo-Fr 10:00-20:00, Fr,Sa 10:00-21:00; Su off";https://www.burgerchuchi.ch/;
+8550999321;;47.5058715;8.7544205;;;;;bbq;;;;;;
+8874899713;Tayyeb Burger;47.5012179;8.7209909;;;;;restaurant;burger;;;"Tu-Th 11:00-14:00,17:00-21:00; Fr 15:00-21:00; Sa,Su 12:00-21:00";https://www.tayyebburger.ch/;
+9006547598;Gelati Schulgasse;47.4989291;8.7296748;;;;;ice_cream;;;;Mo-Su 12:00-22:00;https://www.gelati1998.ch/de/schulgasse/;yes
+9040336569;Kafi Ziegelstei;47.4778386;8.6986122;Winterthur;8406;Dättnauerstrasse;9;cafe;;;;Tu-Su 09:00-17:00;https://www.ziegelstei.ch/;
+9040439996;B51;47.4955808;8.7179129;Winterthur;8406;Drehscheibenplatz;;ice_cream;;yes;yes;Mo-Fr 12:00-17:00;;no
+9097117333;Erpot;47.4983164;8.7546036;Winterthur;8404;St. Gallerstrasse;170;restaurant;;;;;https://erpot.ch/;
+9340288325;Negishi Sushi Bar;47.5009563;8.7238195;;;;;fast_food;sushi;;;Mo-Su 10:00-21:00;;yes
+9340288327;Frau Hund;47.5010438;8.7241901;;;;;fast_food;hot_dog;;;Mo-Fr 06:00-21:00; Sa 08:00-20:00; Su 10:00-20:00;;yes
+9454867847;70/30;47.5015424;8.7206897;;;;;restaurant;;;yes;Mo-Th 11:00-22:00; Fr 11:00-23:00; Sa 11:00-23:00; Su 11:00-18:00;https://7030.ch/;
+9565727837;Himmellounge;47.4927172;8.7621295;Winterthur;8405;Im Hölderli;10;bar;;;;;https://www.himmellounge.ch/;
+9578980149;HegiKern;47.5030544;8.7637272;;;;;cafe;;yes;yes;;;
+9581108183;China Bowl;47.4990053;8.7302299;Winterthur;8400;Obergasse;15;restaurant;chinese;;;Mo-Sa 11:00-22:30; Su 17:00-22:30;https://www.chinabowl-restaurant.ch/;
+9651267228;McDonald's;47.4945709;8.7577932;Winterthur;8404;Rudolf-Diesel-Strasse;19;fast_food;burger;;;Mo-Sa 08:00-22:00;https://www.mcdonalds.com/ch/de-ch/location/winterthur-gr-zemarkt/780232.html;
+9655661531;Suan Long;47.4996816;8.7235638;;;;;fast_food;chinese;;;Mo-Su 10:00-21:30;;
+9655661532;City Grill;47.4997134;8.7235212;;;;;fast_food;kebab;;;Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su 08:00-22:00;;
+9655661535;Tenz Momo;47.4996204;8.7235208;;;;;fast_food;asian;;;"Mo-Fr 07:00-22:00; Sa,Su 10:00-21:00";;
+9655661536;Oh My Greek;47.4996523;8.7235447;;;;;fast_food;greek;;;Mo-Fr 07:00-22:00; Sa 09:00-22:00; Su 09:00-21:00;;
+9708663946;Viet Long;47.4957497;8.7649323;Winterthur;8404;Fröschenweidstrasse;10;restaurant;vietnamese;;;Mo-Fr 11:00-13:30;https://www.vietlong.ch/;
+9813646886;Kafi Theodor;47.5036312;8.7619351;Winterthur;8404;Barbara-Reinhart-Strasse;18;restaurant;coffee_shop;;;;https://kafitheodor.ch/;yes
+9858273717;Mini Golf;47.4897385;8.7249465;;;;;bar;;;;;;
+9860737813;oh' bois;47.5107247;8.7230168;Winterthur;8400;Rosentalstrasse;65;restaurant;;;;Mo-Fr 09:00-16:30; Sa-Su 11:00-16:30; PH 11:00-16:30;https://stadt.winterthur.ch/themen/leben-in-winterthur/alter-gesundheit-und-soziales/wohnen-im-alter/alterszentren/alterszentrum_rosental/restaurant-oh-bois-im-alterszentrum-rosental;
+9880301426;Coop Restaurant Winterthur City;47.4992923;8.7234586;Winterthur;8400;Bahnhofplatz;3;restaurant;;;;;https://www.coop.ch/de/unternehmen/standorte-und-oeffnungszeiten/detail.html/4948/;
+9890092428;Bistro 15;47.5064698;8.7286606;;;;;cafe;;;yes;Mo-Su 07:30-19:00;;
+9916802629;Rauke;47.4942761;8.7341936;Winterthur;8400;Zeughausstrasse;52;cafe;regional;;;Mo-Sa 09:00-16:00;https://rauke.ch/;
+9916802630;LOK.AL;47.4942942;8.7342741;Winterthur;8400;Zeughausstrasse;52;bar;;;;Mo-Sa 16:00-23:00;https://lok.al/;
+9972711523;Loilly;47.4990964;8.7209641;;;;;cafe;bubble_tea;;;Mo-Fr 08:00-20:00; Sa 08:00-18:00;;
+10083420039;MoBeeThai;47.4932570;8.7606172;;;;;fast_food;;;;Tu-Fr 11:00-14:00;;
+10114694925;Aymez Grill House;47.4960949;8.7496999;;;;;fast_food;;;;Mo-Sa 09:00-23:00; Su 11:00-23:00;;
+10141182877;Blumen-Café Fany;47.4984926;8.7236875;Winterthur;8400;Archstrasse;4;cafe;;;;Mo-Sa 08:00-18:00;https://www.blumen-cafe.ch/;
+10200593790;Dachterrasse zum Wiedehopf;47.5076405;8.7297795;;;;;bar;;;;We-Sa 16:00 - 23:00;https://zum-wiedehopf.ch;limited
+10570538138;Cafè Spettacolo;47.4995056;8.7283165;;;Marktgasse;37;cafe;;yes;yes;Mo-Sa 06:00-19:00; Su 08:00-18:00;;yes
+10614201722;Sumak Sumak;47.4999092;8.7317937;;;Obertor;27;restaurant;turkish;;;Mo 11:00-21:30; Tu-Th 11:00-22:00; Fr-Sa 11:00-22:30; Su off;;
+10649464133;A Modo Mio;47.4981488;8.7324907;;;General-Guisan-Strasse;1;fast_food;;;;"Mo 11:00-14:00; Tu-Th 11:00-14:00,17:00-22:00; Fr-Sa 11:00-14:00,17:00-22:30; Su 17:00-22:00";https://winterthur.amodomio.ch/;
+10649506774;Thai Take Away;47.4982238;8.7325352;;;General-Guisan-Strasse;1;restaurant;;;;Mo-Th 10:00-22:00; Fr-Sa 10:00-21:00; Su off;;
+10774850130;Lux;47.4971572;8.7214294;Winterthur;8400;Untere Vogelsangstrasse;12;bar;;;;;;limited
+10774870624;Vio;47.4972618;8.7215176;Winterthur;8400;Untere Vogelsangstrasse;12;bar;;;;"Fr,Sa 21:00-04:00";;limited
+10908421505;brewhouse Winterthur;47.4953458;8.7181533;;;Lagerplatz;4;pub;;yes;yes;"Su-Th 11:00-22:00; Fr,Sa 11:00-24:00";https://www.brewhouse.restaurant/de/p/home-1125.html;yes
+10915551274;;47.5183499;8.7426136;;;;;bbq;;;;;;
+11054865778;Kornhaus;47.4982435;8.7228328;Winterthur;8400;Untere Vogelsangstrasse;2-4;bar;;;;;;
+11233255992;Schlosstal;47.5064541;8.6841850;Winterthur;8408;Wieshofstrasse;102;restaurant;;;;"Mo-Fr 07:00-17:00; Sa,Su,PH 13:00-17:00";https://ipw.ch/ueber-uns/gastronomie-1;
+11233267402;Shadi's Food;47.4971391;8.7470746;Winterthur;8404;Kronaustrasse;2;fast_food;lebanese;;;Mo 11:30-19:30; Tu 11:30-18:30; We-Sa 11:30-20:30;https://shadisfood.ch/;
+11238072140;Sherpa MoMo & Sushi Takeaway;47.5013124;8.7472024;;;Römerstrasse;74;fast_food;;;;;;
+11238523573;Ammas Curry;47.4943437;8.7179944;;;Lagerplatz;19;fast_food;;;;Mo-Fr 11:30-13:30;;
+11262554588;Keren Bar;47.5013092;8.7211198;;;;;bar;;;;;;
+11482463986;;47.4697686;8.7543380;;;;;bbq;;;;;;
+11524983451;;47.5409148;8.7675257;;;;;bbq;;;;;;
+11524983468;;47.5402979;8.7680932;;;;;bbq;;;;;;
+11525703466;;47.5372045;8.7548657;;;;;bbq;;;;;;
+11554643226;Gocha;47.4988827;8.7211451;;;;;restaurant;burger;pizza;pasta;yes;yes;;;yes
+11563934256;Wintialp;47.5011917;8.7273023;Winterthur;8400;Im Stadtpark;;restaurant;;;;Nov-Feb;;
+11650814090;;47.5070579;8.6658908;;;;;bbq;;;;;;
+11670287541;Clubrestaurant La Gloria;47.4624689;8.7135664;;;;;restaurant;;;;07:00-00:00;;
+11725796522;Ristorante La Rosa;47.4935234;8.7155047;;;;;restaurant;italian;;yes;"Tu-Fr 11:00-14:00,18:00-23:00; Sa 16:00-23:00; Su 11:00-17:00";https://www.ristorante-larosa.ch/;
+11742734354;Salon Erika;47.5011751;8.7183378;;;;;bar;;;;;;
+11818443358;Transit Laden + Bistro;47.5051637;8.7746191;Winterthur;8409;Rümikerstrasse;45;cafe;;;;;https://stadt.winterthur.ch/themen/leben-in-winterthur/arbeit-steuern/arbeitsintegration/dienstleitungen-und-produkte/transit-hegi;
+12128125202;Bistro Villa Sträuli;47.5016982;8.7286933;;;;;restaurant;italian;mediterranean;;;Mo-Fr 10:00-14:00;https://www.villastraeuli.ch/de/bistro;
+12145809201;Pizzeria Don Camillo;47.4980547;8.7277825;;;;;restaurant;italian;;;;;

@@ -1,0 +1,11 @@
+numpy==1.26.4
+openpyxl
+pandas
+pillow
+pytesseract
+python-Levenshtein
+scikit-learn
+scikit-surprise
+scipy
+seaborn
+streamlit==1.38.0
